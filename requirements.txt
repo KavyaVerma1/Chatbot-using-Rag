@@ -1,0 +1,8 @@
+streamlit
+pinecone-client
+langchain
+langchain-huggingface
+sentence-transformers
+groq
+langchain-groq
+langchain-community
