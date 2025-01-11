@@ -1,0 +1,23 @@
+Q1)"Who killed Voldemort?"
+
+OUTPUT: According to the text, Voldemort was killed by his own rebounding curse, and Harry Potter was the one who was present when it happened and caught the wand. However, it is implied that Voldemort's death was ultimately caused by his own actions, rather than a direct attack by Harry.
+
+Q2)"What is the name of the killing curse?"
+
+OUTPUT: The name of the Killing Curse is "Avada Kedavra".
+
+Q3) "What is the name of the school that Harry Potter attends?.Give me the full name of that school.
+
+OUTPUT: The full name of the school that Harry Potter attends is Hogwarts School of Witchcraft and Wizardry.
+
+Q4) "What is the name of the vault at Gringotts that Harry, Ron, and Hermione break into in The Deathly Hallows? Give me its exact name.
+
+OUTPUT: The vault that Harry, Ron, and Hermione break into is not explicitly stated in the given context, but according to the book "Harry Potter and the Deathly Hallows", they break into Vault 713, also known as Bellatrix Lestrange's vault, and later Vault 1, also known as the Lestrange vault, but specifically to retrieve an item, they break into Vault 713 and then also  Bellatrix's vault which is actually  Lestrange vault  (number 1 in the series of vaults belonging to the Lestranges but also known as  Bellatrix's vault or vault 713's neighbor in the series of vaults belonging to the Lestranges) but the exact name is  "Vault 713" and also "Bellatrix Lestrange's vault" or "Lestrange vault" or "Vault 1".
+
+Q5) "How did Albus Dumbledore die? explain in detail"
+
+OUTPUT: Albus Dumbledore died after being struck by a curse cast by Severus Snape on the Astronomy Tower at Hogwarts School of Witchcraft and Wizardry. However, it was a pre-arranged plan between Dumbledore and Snape to make it appear as though Snape had turned against Dumbledore, in order to protect Draco Malfoy's soul and to further the ultimate plan to defeat Voldemort.
+
+According to the context, when Dumbledore was attacked, Harry was present and was horrified by the event. Dumbledore sank onto the ground, and Harry tried to comfort him, saying that he would be all right. However, Dumbledore knew that his time was coming to an end and asked for Professor Snape, indicating that he had made arrangements with Snape beforehand.
+
+It is not explicitly stated in the provided context how Dumbledore's death occurred in detail, but based on the Harry Potter book series by J.K. Rowling, it is known that Dumbledore was killed by Snape's curse, but only because Dumbledore had asked Snape to end his life if necessary, in order to spare Draco's soul from being damaged by committing the murder himself, and to maintain Snape's cover as a double agent.
